@@ -1,0 +1,7 @@
+npm install --save react-helmet                             https://www.npmjs.com/package/react-helmet
+npm install --save react-apexcharts apexcharts              https://apexcharts.com/docs/react-charts/
+npm install @mui/icons-material                             https://mui.com/material-ui/customization/palette/
+npm install @mui/material @emotion/react @emotion/styled 
+
+CURSO MATERIAL UI
+https://www.youtube.com/watch?v=-ipl60m5eQA&list=PLPl81lqbj-4Kn-PRUvHuzh_591Euc3688&ab_channel=Bluuweb
